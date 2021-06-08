@@ -156,8 +156,8 @@ pre,
 code {
   @include relative-font-size(0.85);
   color: #15c915;
-  border-radius: 3px;
-  background-color: darken($background-color, 3%);
+  border-radius: 5px;
+  background-color: #000;
 }
 
 code {

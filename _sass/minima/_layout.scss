@@ -56,9 +56,9 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
+    background-color: darken($background-color, 2%);
+    //border: 1px solid $grey-color-light;
+    border-radius: 10px;
     text-align: right;
 
     label[for="nav-trigger"] {
@@ -80,7 +80,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $text-color; // AMG: it was $grey-color-dark
       }
     }
 
