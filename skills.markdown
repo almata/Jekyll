@@ -16,6 +16,7 @@ I started writing code when I was 12 and my parents purchased an [Amstrad CPC612
 
 ### Used at some point in my career
 
+- SQL to create and query databases (Access, MySQL, SQL Server, and Postgres).
 - Python and Django to create web applications.
 - Kotlin and Java to create Android native applications.
 - Swift and good old Objective-C to create iOS native applications.

@@ -2,26 +2,27 @@
 layout: post
 title:  "Create personal website with Jekyll"
 date:   2021-06-08
-
 ---
-## Install Jekyll
+## First steps
 
-```bash
-$ gem install bundler jekyll
-```
+1. Install Jekyll:
 
-## Create project
+    ```bash
+    $ gem install bundler jekyll
+    ```
 
-```bash
-$ jekyll new AlbertMata
-```
+2. Create project:
 
-## Generate site and start web server
+    ```bash
+    $ jekyll new AlbertMata
+    ```
 
-```bash
-$ cd AlbertMata
-$ bundle exec jekyll serve
-```
+3. Generate site and start web server:
+
+    ```bash
+    $ cd AlbertMata
+    $ bundle exec jekyll serve
+    ```
     
 Then we can find the site at [http://localhost:4000](http://localhost:4000).
 
@@ -45,7 +46,7 @@ I have two different repositories on GitHub:
 
 That is... I have a first Git repository for *AlbertMata* directory and a second Git repository for *\_site* subdirectory (this *\_site* subdirectory is included in the *.gitignore* file of the first Git repository).
 
-## Custom domains
+## Use custom domains
 
 To redirect [albertmata.net](https://albertmata.net) to this website I've need to create a file named *CNAME* in the *\_site* subdirectory with this exact content:
 
