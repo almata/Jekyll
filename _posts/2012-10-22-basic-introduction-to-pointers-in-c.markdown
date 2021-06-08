@@ -322,7 +322,7 @@ doubles_ptr = &doubles;  // referencing to doubles function (the & is optional)
 The second thing important in this code is how we tell a function to get another function as a parameter. For instance, in this example we have a function called `foo` that receives some standard parameters and a final parameter which is a pointer (called `bar`) to a function that takes a float and an integer and returns an integer:
 
 ```c
-void foo(<# some standard parameters #>, int(*bar)(float, int));
+void foo(/* some standard parameters here */, int(*bar)(float, int));
 ```
 
 In the implementation of this `foo` function we could use the `bar` function the way we need, as long as we pass a float and integer to it (and we'll get an integer as a result). That's very similar to what we've done in our `isEven` function.
