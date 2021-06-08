@@ -156,7 +156,7 @@ pre,
 code {
   @include relative-font-size(0.85);
   color: #15c915;
-  border-radius: 5px;
+  border-radius: 8px;
   background-color: #000;
 }
 
@@ -173,6 +173,14 @@ pre {
     padding-right: 0;
     padding-left: 0;
   }
+}
+
+/**
+ * Custom emphasis
+ */
+em {
+  font-style: normal;
+  color: rgb(212, 159, 214);
 }
 
 
