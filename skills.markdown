@@ -5,7 +5,7 @@ permalink: /skills/
 order: 2
 ---
 
-I started writing code when I was 12 and my parents purchased an [Amstrad CPC6128](https://en.wikipedia.org/wiki/Amstrad_CPC). How could anyone forget all those BASIC programs "copypasted" from magazines: `10 CLS` and all that :) But my first professional experience as a programmer came much later, already in my twenties, when I automated some daily processes in my job at that time using VBA and Microsoft Excel and happened to realize I could actually do that for a living. Anyway, time really flies and along all these years I've had the chance to work with many technologies and deliver good quality products for many clients. 
+I started writing code when I was 12 and my parents purchased an [Amstrad CPC6128](https://en.wikipedia.org/wiki/Amstrad_CPC). How could anyone forget all those BASIC programs "copypasted" from magazines: `10 CLS` and all that :) But my first professional experience as a programmer came much later, already in my twenties, when I found out I could automate some daily processes in my job at that time using VBA and Microsoft Excel and then happened to realize I could actually do that for a living. Anyway, time really flies and along the last two decades I've had the chance to work with many technologies and deliver good quality products for many clients. 
 
 ### Current stack
 
