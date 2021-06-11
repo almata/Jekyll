@@ -46,6 +46,28 @@ I have two different repositories on GitHub:
 
 That is... I have a first Git repository for *AlbertMata* directory and a second Git repository for *\_site* subdirectory (this *\_site* subdirectory is included in the *.gitignore* file of the first Git repository).
 
+As most of the time a push operation is required is just because I've added a new note, I've created a *publi.sh* shell script to do that:
+
+```bash
+#!/bin/bash
+
+git add .
+git commit -m "(Note) $1"
+git push origin master
+cd _site
+git checkout CNAME
+git add .
+git commit -m "(Note) $1"
+git push origin master
+cd ..
+```
+
+This way I just need one command to push changes to both repositories at once:
+
+```bash
+$ ./publi.sh "Create personal website with Jekyll"
+```
+
 ## Use custom domains
 
 To redirect [albertmata.net](https://albertmata.net) to this website I've need to create a file named *CNAME* in the *\_site* subdirectory with this exact content:
