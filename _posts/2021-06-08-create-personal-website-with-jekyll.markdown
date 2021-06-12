@@ -72,9 +72,9 @@ $ ./publi.sh "Create personal website with Jekyll"
 
 To redirect [albertmata.net](https://albertmata.net) to this website I've need to create a file named *CNAME* in the *\_site* subdirectory with this exact content:
 
-{% highlight text %}
+```
 albertmata.net
-{% endhighlight %}
+```
 
 To redirect [albertmata.com](http://albertmata.com), I've added a forward rule from Hover following instructions in [Domain forwarding](https://help.hover.com/hc/en-us/articles/217282447-Domain-forwarding). It works well, except for HTTPS, as I'd need a SSL certificate for that.
 
