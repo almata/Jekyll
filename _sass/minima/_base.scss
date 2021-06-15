@@ -94,6 +94,7 @@ ul, ol {
 }
 
 li {
+  margin-bottom: 5px;
   > ul,
   > ol {
     margin-bottom: 0;
@@ -156,7 +157,7 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.85);
-  color: #15c915;
+  color: #83ca83;
   border-radius: 8px;
   background-color: #000;
 }
@@ -182,6 +183,20 @@ pre {
 em {
   font-style: normal;
   color: $em-color;
+}
+
+
+/**
+ * Custom styles for resume
+ */
+.resume-grayed-out {
+  color: darken($grey-color, $amount: 15%);
+  font-size: $base-font-size * 0.8;
+}
+
+.cv-bullet {
+  font-size: $base-font-size * 1.8;
+  color: $brand-color;
 }
 
 

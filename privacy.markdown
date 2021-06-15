@@ -4,7 +4,6 @@ title: Privacy
 permalink: /privacy/
 order: 10
 ---
-
 # Nature of this website
 
 This website contains personal notes on software development. All content is opinion-based. My opinions do not reflect the ideas, ideologies, or points of view of any organization I can be potentially affiliated with.
