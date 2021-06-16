@@ -15,7 +15,7 @@ order: 3
 ### <span class="cv-bullet">&#10687;</span> Experience as Software Developer
 
 * Auckland <span class="resume-grayed-out">(code name, 2021)</span>
-    * Cross-platform _mobile app_ built with _Flutter_ to help students to memorize new English vocabulary. 
+    * Cross-platform _mobile app_ built with _Flutter_ to help users to memorize new English vocabulary. 
 
 * Netzsch <span class="resume-grayed-out">(2020-21)</span>
     * _Web application_ built with _ASP.NET Core_, _C#_, _Postgres_, _SQL_, and _TypeScript_ to create quotations, manage employee time control, etc.
@@ -45,7 +45,7 @@ order: 3
     * Native _iOS app_ built with _Swift_ and _Alamofire_ to help blue-collar workers find jobs in a specific area. 
 
 * MyVocapp <span class="resume-grayed-out">(2014-15)</span>
-    * Native _iOS app_ built with _Objective-C_ and _Core Data_ to help students learning English memorize new vocabulary.
+    * Native _iOS app_ built with _Objective-C_ and _Core Data_ to help users to memorize new English vocabulary. 
 
 * McDonald's Ireland <span class="resume-grayed-out">(2013)</span>
     * Native _iOS app_ built with _Objective-C_ and _AFNetworking_ to show promotions available at McDonald's restaurants during Christmas. 
@@ -103,9 +103,9 @@ order: 3
 
 ### <span class="cv-bullet">&#10687;</span> Other stuff
 
-* Project Manager <span class="resume-grayed-out">(2010-2021)</span>
+* Project Manager <span class="resume-grayed-out">(2010-21)</span>
     * Broad experience in activities such as _requirement gathering and analysis_; planning, budgeting and documenting all aspects of a project; working closely with upper management to make sure the scope and direction of each project is on schedule; calculating KPIs, _detecting deviations, and proposing new realistic goals_; managing work of team collaborators, etc.
-* Technical Translator <span class="resume-grayed-out">(2017-2018)</span>
+* Technical Translator <span class="resume-grayed-out">(2017-18)</span>
     * Translated the 16th and 17th editions of the [Mobile Developer's Guide to the Galaxy](https://www.open-xchange.com/resources/mobile-developers-guide-to-the-galaxy/) book from English to Spanish.
 * Certified SAP Consultant <span class="resume-grayed-out">(2008)</span>
     * Got SAP's _MySAP Financials ERP 2005_ certification.
