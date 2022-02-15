@@ -74,9 +74,9 @@ order: 4
 
 ### <span class="cv-bullet">&#10687;</span> Other stuff
 
-* Project Manager <span class="resume-grayed-out">(2010-22)</span>
+* _Project Manager_ <span class="resume-grayed-out">(2010-22)</span>
     * Broad experience in activities such as requirement gathering and analysis; planning, budgeting and documenting all aspects of a project; working closely with upper management to make sure the scope and direction of each project is on schedule; calculating KPIs, detecting deviations, and proposing new realistic goals; managing work of team collaborators, etc.
-* Technical Translator <span class="resume-grayed-out">(2017-18)</span>
+* _Technical Translator_ <span class="resume-grayed-out">(2017-18)</span>
     * Translated the 16th and 17th editions of the [Mobile Developer's Guide to the Galaxy](https://www.open-xchange.com/resources/mobile-developers-guide-to-the-galaxy/) book from English to Spanish.
-* Certified SAP Consultant <span class="resume-grayed-out">(2008)</span>
+* _Certified SAP Consultant_ <span class="resume-grayed-out">(2008)</span>
     * Got MySAP Financials ERP 2005 certification.
