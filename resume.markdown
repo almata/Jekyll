@@ -14,21 +14,21 @@ order: 4
 
 ### <span class="cv-bullet">&#10687;</span> Experience as Software Developer
 
-* Full Stack Development <span class="resume-grayed-out">(2017 to present)</span>
+* _Full Stack Development_ <span class="resume-grayed-out">(2017 to present)</span>
     * Creation of an intranet web application built with _.NET Core_, _C#_, _Postgres_, _SQL_ and _TypeScript_ to create commercial quotations, manage employee timekeeping, show dashboards with lots of KPIs, etc.
-    * Creation of a web application built with _Django_, _Python_, _Postgres_, _SQL_ and _Heroku_ to assess level of programming knowledge for hundreds of candidates willing to enroll in different IT courses.    
+    * Creation of a web application built with _Django_, _Python_, _JavaScript_, _Postgres_, _SQL_ and _Heroku_ to assess level of programming knowledge for hundreds of candidates willing to enroll in different IT courses.    
 
-* Mobile Development <span class="resume-grayed-out">(2013 to present)</span>
-    * Publication of a cross-platform app built with _Flutter_ to help users memorize new English vocabulary.
+* _Mobile Development_ <span class="resume-grayed-out">(2013 to present)</span>
+    * Publication of a cross-platform app built with _Flutter_ and coded in _Dart_ to help users memorize new English vocabulary.
     * Publication of an _iOS_ app coded in _Swift_ to help visitors in huge animal park find their way between different points of interest.
     * Publication of an _iOS_ app coded in _Objective-C_ and using _AFNetworking_, _Core Animation_, _Parse_ and _Core Data_ to help Irish students pass Leaving Cert exams.         
-    * Publication of a cross-platform app built with _React Native_ to help Computer Science students study space and time computational complexities of common data structures and algorithms.     
+    * Publication of a cross-platform app built with _React Native_ and coded in _JavaScript_ to help Computer Science students study space and time computational complexities of common data structures and algorithms.     
 
-* Windows Development <span class="resume-grayed-out">(2007 to 2018)</span>
+* _Windows Development_ <span class="resume-grayed-out">(2007 to 2018)</span>
     * Creation of a mid-sized ERP built with _.NET_, _Visual Basic_, _MySQL_, _Oracle_, _SQL_ and _Crystal Reports_ to manage generation and tracking of commercial quotations, calculate stainless steel price, and optimize stainless steel stock in warehouses.   
     * Creation of two applications built with _.NET_, _Visual Basic_, _MySQL_, _PHP_ and _JavaScript_ to manage agendas for hundreds of employees in a healthcare industry company.
 
-* Office Development <span class="resume-grayed-out">(2004 to 2010)</span>
+* _Office Development_ <span class="resume-grayed-out">(2004 to 2010)</span>
     * Creation of an application built with _Access_, _VBA_ and _SQL_ to manage the medical information of the Neurology Department of one of the most important hospitals in Spain.
     * Creation of an application built with _Access_, _VBA_ and _SQL_ to manage all incidences related to a critical manufacturing process.     
     * Creation of an application built with _Excel_ and _VBA_ to analyze data related to millions of phone calls to check the correcteness of the invoicing process.
