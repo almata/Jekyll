@@ -6,7 +6,7 @@ order: 10
 ---
 # Nature of this website
 
-This website contains personal notes on software development. All content is opinion-based. My opinions do not reflect the ideas, ideologies, or points of view of any organization I can be potentially affiliated with.
+This website may contain some notes on software development. All content is opinion-based. My opinions do not reflect the ideas, ideologies, or points of view of any organization I can be potentially affiliated with.
 
 # No data collection
 
@@ -18,7 +18,7 @@ This website does not use any kind of affiliate links and has no commercial purp
 
 # No responsibility
 
-This website contains snippets of source code. If you find something useful here, good for you. But please understand there is no warranty about the completeness, reliability and accuracy of the information in this website. So any action you take upon the information you may find on this website is strictly at your own risk. 
+This website may contain some snippets of source code. If you find something useful here, good for you. But please understand there is no warranty about the completeness, reliability and accuracy of the information in this website. So any action you take upon the information you may find on this website is strictly at your own risk. 
 
 # Ownership and license
 
