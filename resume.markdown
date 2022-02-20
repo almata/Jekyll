@@ -40,32 +40,32 @@ order: 4
 * _Prototyping Lab_ <span class="resume-grayed-out">(Open University of Catalonia, 2022)</span>
     * Master's degree assistance lab for tools such as Figma and Justinmind.
 
-* _Frontend Web Development_ <span class="resume-grayed-out">(Public Employment Service of Catalonia, 2021-22)</span>
+* _Frontend Web Development_ <span class="resume-grayed-out">(Public Employment Service of Catalonia, 2021 to 2022)</span>
     * Course on frontend web development using HTML, CSS, JavaScript, React and React Native aimed for unemployed people with little experience on programming.
 
-* _New Trends in Mobile Development_ <span class="resume-grayed-out">(Open University of Catalonia, 2020-22)</span>
+* _New Trends in Mobile Development_ <span class="resume-grayed-out">(Open University of Catalonia, 2020 to 2022)</span>
     * Master's degree course on cross-platform app development using React Native and Flutter.
 
-* _Multimedia Lab_ <span class="resume-grayed-out">(Open University of Catalonia, 2018-21)</span>
+* _Multimedia Lab_ <span class="resume-grayed-out">(Open University of Catalonia, 2018 to 2021)</span>
     * Master's degree assistance lab for tools such as Photoshop, Illustrator, Justinmind, Figma, JavaScript and Processing.
 
-* _Advanced Android App Development_ <span class="resume-grayed-out">(Open University of Catalonia, 2019-20)</span>
+* _Advanced Android App Development_ <span class="resume-grayed-out">(Open University of Catalonia, 2019 to 2020)</span>
     * Master's degree course on native Android development using Kotlin and Java.
 
 * _iOS App Development_ <span class="resume-grayed-out">(Public Employment Service of Catalonia, 2018)</span>
     * Course on native iOS development using Swift aimed for unemployed programmers willing to become iOS developers.
 
-* _Mobile App Development_ Capstone Project <span class="resume-grayed-out">(Open University of Catalonia, 2017-18)</span>
+* _Mobile App Development_ Capstone Project <span class="resume-grayed-out">(Open University of Catalonia, 2017 to 2018)</span>
     * Master's degree final project coordinator.
 
-* _Multimedia Technologies and Applications_ <span class="resume-grayed-out">(Open University of Catalonia, 2016-18)</span>
+* _Multimedia Technologies and Applications_ <span class="resume-grayed-out">(Open University of Catalonia, 2016 to 2018)</span>
     * Master's degree course on creation of infographics, keynotes, UI & UX design and video production.
 
 ---
 
 ### <span class="cv-bullet">&#10687;</span> Education
 
-* Master's Degree in _Bioinformatics and Biostatistics_ <span class="resume-grayed-out">(Open University of Catalonia, expected 2022)</span>
+* Master's Degree in _Bioinformatics and Biostatistics_ <span class="resume-grayed-out">(University of Barcelona & Open University of Catalonia, expected 2022)</span>
 * Bachelor of _Computer Science_ <span class="resume-grayed-out">(Open University of Catalonia, 2012)</span>
 * Master's Degree in _SAP Functional Consulting_ <span class="resume-grayed-out">(La Salle BCN, 2008)</span>
 * Bachelor of _Business Science_ <span class="resume-grayed-out">(University of Barcelona, 2002)</span>
@@ -74,9 +74,9 @@ order: 4
 
 ### <span class="cv-bullet">&#10687;</span> Other stuff
 
-* _Project Manager_ <span class="resume-grayed-out">(2010-22)</span>
+* _Project Manager_ <span class="resume-grayed-out">(2010 to 2022)</span>
     * Broad experience in activities such as requirement gathering and analysis; planning, budgeting and documenting all aspects of a project; working closely with upper management to make sure the scope and direction of each project is on schedule; calculating KPIs, detecting deviations, and proposing new realistic goals; managing work of team collaborators, etc.
-* _Technical Translator_ <span class="resume-grayed-out">(2017-18)</span>
+* _Technical Translator_ <span class="resume-grayed-out">(2017 to 2018)</span>
     * Translated the 16th and 17th editions of the [Mobile Developer's Guide to the Galaxy](https://www.open-xchange.com/resources/mobile-developers-guide-to-the-galaxy/) book from English to Spanish.
 * _Certified SAP Consultant_ <span class="resume-grayed-out">(2008)</span>
     * Got MySAP Financials ERP 2005 certification.
